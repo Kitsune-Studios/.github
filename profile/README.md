@@ -8,9 +8,7 @@ This repository contains template structures for various types of projects to en
 
 ## Available Templates
 
-- `basic-web/` - Standard web application template
-- `api-service/` - RESTful API service template
-- `library/` - Reusable library/package template
+- `WA-bot-template/` - Standard WhatsApp template
 
 ## Usage
 
