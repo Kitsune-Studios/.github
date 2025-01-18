@@ -8,7 +8,7 @@ This repository contains template structures for various types of projects to en
 
 ## Available Templates
 
-- `WA-bot-template/` - Standard WhatsApp template for chatbots
+- [`WA-bot-template/`](https://github.com/Kitsune-Studios/WA-bot-template/) - Standard WhatsApp template for chatbots
 
 ## Usage
 
@@ -36,4 +36,4 @@ To contribute a new template or improve existing ones:
 
 ## License
 
-MIT License
+Most of our projets are Licensed under the `MIT License`. See the [LICENSE](LICENSE) file for details.
