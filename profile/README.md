@@ -6,7 +6,7 @@ A collection of standardized repository templates for business projects.
 
 ### 🙋‍♀️ About Us
 
-We are a software solutions company focused on empowering small businesses through modern infrastructure and cutting-edge technology. Our expertise lies in Infrastructure as Code (IaC) and implementing industry-leading tech standards for our clients.
+We are a software solutions entity focused on empowering small businesses through modern infrastructure and cutting-edge technology. Our expertise lies in Infrastructure as Code (IaC) and implementing industry-leading tech standards for our clients.
 This repository contains template structures for various types of projects to ensure consistency and best practices across our organization.
 
 ## Available Templates
