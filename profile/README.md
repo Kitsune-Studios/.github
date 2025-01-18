@@ -36,4 +36,4 @@ To contribute a new template or improve existing ones:
 
 ## License
 
-Most of our projets are Licensed under the `MIT License`. See the [LICENSE](LICENSE) file for details.
+Most of our projets are Licensed under the `MIT License`. See the [LICENSE](../LICENSE) file for details.
