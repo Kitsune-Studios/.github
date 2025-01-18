@@ -1,1 +1,19 @@
-Example .github
+# Public Kitsune-Studios Readme
+
+This is the public readme for Kitsune-Studios. This is a public repository that is used to store all the public information about Kitsune-Studios. This includes information about the company, the team, and the projects that we are working on.
+
+## Company Information
+
+Kitsune-Studios is a small organization that is based in the Argentina. We are a small team of developers that are passionate about creating software that helps small entrepeneurs. Our goal is to create software that makes easier for companies to join tech and also, that provide a unique and memorable experience for our community.
+
+## Team
+
+### Members
+
+- [Carlos Eduardo Ferreyra](@carlosferreyra)
+- [Lautaro Dante Pacella](@lautaropacella)
+
+### Roles
+
+- Carlos Eduardo Ferreyra - Software Engineer
+- Lautaro Dante Pacella - Data Engineer
