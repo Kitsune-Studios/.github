@@ -20,9 +20,9 @@ This repository contains template structures for various types of projects to en
 
 Each template includes:
 
-- Standard directory structure
-- Basic configuration files
-- GitHub Actions workflows
+- Standard directory structure (e.g., `src/`, `tests/`)
+- Basic configuration files (e.g., `.gitignore`, `.editorconfig`)
+- GitHub Actions workflows (for CI/CD)
 - Automation scripts (if applicable)
 
 ## Contributing
