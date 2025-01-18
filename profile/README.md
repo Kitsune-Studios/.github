@@ -8,7 +8,7 @@ This repository contains template structures for various types of projects to en
 
 ## Available Templates
 
-- `WA-bot-template/` - Standard WhatsApp template
+- `WA-bot-template/` - Standard WhatsApp template for chatbots
 
 ## Usage
 
@@ -23,8 +23,7 @@ Each template includes:
 - Standard directory structure
 - Basic configuration files
 - GitHub Actions workflows
-- Documentation templates
-- Code quality tools
+- Automation scripts (if applicable)
 
 ## Contributing
 
