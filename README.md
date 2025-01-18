@@ -10,8 +10,8 @@ Kitsune-Studios is a small organization that is based in the Argentina. We are a
 
 ### Members
 
-- [Carlos Eduardo Ferreyra](@carlosferreyra)
-- [Lautaro Dante Pacella](@lautaropacella)
+- [Carlos Eduardo Ferreyra](https://github.com/carlosferreyra/)
+- [Lautaro Dante Pacella](https://github.com/lautaropacella/)
 
 ### Roles
 
