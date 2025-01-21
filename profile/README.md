@@ -13,9 +13,6 @@ This repository contains template structures for various types of projects to en
 
  - [`WA-Bot-Template/`](https://github.com/Kitsune-Studios/WA-Bot-Template) - Standard WhatsApp template for chatbots - ⭐️ 0
  - [`.github/`](https://github.com/Kitsune-Studios/.github) - Main repository for the organization - ⭐️ 0
- - [`.github-private/`](https://github.com/Kitsune-Studios/.github-private) - Internal Org Repo - ⭐️ 0
- - [`Mantecatto/`](https://github.com/Kitsune-Studios/Mantecatto) - WA bot for ordering and customer service for Mantecatto - ⭐️ 0
- - [`demo-repository/`](https://github.com/Kitsune-Studios/demo-repository) - A code repository designed to show the best GitHub has to offer. - ⭐️ 0
 
 ## Usage
 
