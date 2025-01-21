@@ -24,8 +24,5 @@
     "homepage": "https://github.com/Kitsune-Studios/.github/tree/main/profile#readme",
     "devDependencies": {
         "standard": "17.1.2"
-    },
-    "eslintConfig": {
-        "extends": "eslint:recommended"
     }
 }

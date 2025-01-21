@@ -15,14 +15,14 @@ const generateRepoMarkdown = (repository) => { // Rename argument for clarity
   
 
 const apply_update = async () => {
-  const template = await fs.readFile('/src/README.md.tpl', 'utf-8') // Assuming you want to update README.md
+  const template = await fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' })
   const repositories = await getRepositories()
   const repo_placeholder =  await repositories.map(generateRepoMarkdown).join('\n')
   const newMarkdown = template
     .replace(PLACEHOLDERS.REPOS, repo_placeholder)
   console.log(newMarkdown)
   // Wait for the write operation to finish
-  await fs.writeFile('/profile/README.md', newMarkdown) // Update the path if necessary
+  await fs.writeFile('./profile/README.md', newMarkdown) // Update the path if necessary
 }
 
 apply_update()
