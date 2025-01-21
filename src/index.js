@@ -20,7 +20,6 @@ const apply_update = async () => {
   const repo_placeholder =  await repositories.map(generateRepoMarkdown).join('\n')
   const newMarkdown = template
     .replace(PLACEHOLDERS.REPOS, repo_placeholder)
-  console.log(newMarkdown)
   // Wait for the write operation to finish
   await fs.writeFile('./profile/README.md', newMarkdown) // Update the path if necessary
 }
