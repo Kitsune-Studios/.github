@@ -10,7 +10,4 @@ Kitsune-Studios is a small organization that is based in the Argentina. We are a
 
 ## Team Members
 
- - <img src="https://avatars.githubusercontent.com/u/48495214?v=4" width="32" height="32" style="border-radius: 50%"> [carlosferreyra](https://github.com/carlosferreyra)
-
- - <img src="https://avatars.githubusercontent.com/u/59834503?v=4" width="32" height="32" style="border-radius: 50%"> [lautaropacella](https://github.com/lautaropacella)
-
+%{{members}}
