@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: [ main ]
   workflow_dispatch:
   
   schedule:
@@ -25,4 +25,4 @@ jobs:
         git config user.email eduferreyraok@gmail.com
         git add profile/README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
-        git push origin $default-branch
+        git push origin main
