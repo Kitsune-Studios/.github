@@ -18,7 +18,9 @@ const getRepositories = async () => {
     }
   )
   const repositories = await response.json()
-  return repositories.filter(repo => !repo.private)
+  return repositories
+    .filter(repo => !repo.private)
+    .filter(repo => !repo.name.startsWith('.'))
 }
 
 const getMembers = async () => {
