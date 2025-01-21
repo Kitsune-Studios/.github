@@ -17,10 +17,7 @@ const generateRepoMarkdown = (repository) => { // Rename argument for clarity
 const apply_update = async () => {
   const template = await fs.readFile('./README.md.tpl', 'utf-8') // Assuming you want to update README.md
   const repositories = await getRepositories()
-  console.log(repositories)
   const repo_placeholder =  await repositories.map(generateRepoMarkdown).join('\n')
-  // replace all placeholders with info
-  console.log('repos: '+ '\n'+repo_placeholder)
   const newMarkdown = template
     .replace(PLACEHOLDERS.REPOS, repo_placeholder)
   console.log(newMarkdown)
