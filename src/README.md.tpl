@@ -11,9 +11,7 @@ This repository contains template structures for various types of projects to en
 
 ## Available Templates
 
- - [`WA-Bot-Template/`](https://github.com/Kitsune-Studios/WA-Bot-Template) - Standard WhatsApp template for chatbots - ⭐️ 0
- - [`.github/`](https://github.com/Kitsune-Studios/.github) - null - ⭐️ 0
- - [`demo-repo-f0b7e33/`](https://github.com/Kitsune-Studios/demo-repo-f0b7e33) - Demo Repository for GitHub - ⭐️ 0
+%{{repos}}
 
 ## Usage
 

@@ -1,0 +1,31 @@
+{
+    "name": "carlosferreyra",
+    "version": "1.0.0",
+    "description": "Kitsune-Studios README GitHub profile",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "update-readme": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kitsune-Studios/.github.git"
+    },
+    "keywords": [
+        "readme",
+        "github profile",
+        "github readme"
+    ],
+    "author": "Carlos Eduardo Ferreyra <eduferreyraok@gmail.com> (https://carlosferreyra.me/)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kitsune-Studios/.github/issues"
+    },
+    "homepage": "https://github.com/Kitsune-Studios/.github/tree/main/profile#readme",
+    "devDependencies": {
+        "standard": "17.1.2"
+    },
+    "eslintConfig": {
+        "extends": "eslint:recommended"
+    }
+}
