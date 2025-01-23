@@ -34,12 +34,11 @@ We are committed to fostering an open and welcoming environment. Please read our
 
 ## Contributing
 
-To contribute a new template or improve existing ones:
+To contribute, please follow these steps:
+- For improvements to existing templates: Open a pull request
+- For new template proposals: Start a discussion or create an issue first
 
-1. Fork this repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
+Please refer to our [Contributing Guidelines](../CONTRIBUTING.md) and [Code Owners](../CODEOWNERS.md) for more information.
 
 ## License
 
