@@ -11,7 +11,7 @@ This repository contains template structures for various types of projects to en
 
 ## Available Templates
 
-- [`WA-Bot-Template/`](https://github.com/Kitsune-Studios/WA-Bot-Template) - Standard WhatsApp template for chatbots - ⭐️ 0
+ - [`WA-Bot-Template/`](https://github.com/Kitsune-Studios/WA-Bot-Template) - Standard WhatsApp template for chatbots - ⭐️ 0
 
 ## Usage
 
@@ -28,10 +28,6 @@ Each template includes:
 - GitHub Actions workflows (for CI/CD)
 - Automation scripts (if applicable)
 
-## Code of Conduct
-
-We are committed to fostering an open and welcoming environment. Please read our [Code of Conduct](../CODE_OF_CONDUCT.md) to understand what behaviors will and will not be tolerated.
-
 ## Contributing
 
 To contribute a new template or improve existing ones:
@@ -46,5 +42,4 @@ To contribute a new template or improve existing ones:
 Most of our projets are Licensed under the [`MIT License`](../LICENSE).
 
 ---
-
-_Building the future of small business infrastructure, one deployment at a time_ 🚀
+*Building the future of small business infrastructure, one deployment at a time* 🚀
