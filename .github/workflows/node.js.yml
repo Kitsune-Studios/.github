@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: "0 */5 * * *"
 env:
-  GH_ACCESS_TOKEN: ${{ secrets.GH_ACTIONS }}
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:

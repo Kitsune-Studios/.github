@@ -2,14 +2,14 @@ import { promises as fs } from 'fs';
 
 import { PLACEHOLDERS } from './constants.js';
 const {
-  GH_ACCESS_TOKEN,
+  GH_TOKEN,
 } = process.env;
-if (!GH_ACCESS_TOKEN) {
-  console.error('GH_ACCESS_TOKEN is required');
+if (!GH_TOKEN) {
+  console.error('GH_TOKEN is required');
   process.exit(1);
 }
 const header = {
-  Authorization: `Bearer ${GH_ACCESS_TOKEN}`,
+  Authorization: `Bearer ${GH_TOKEN}`,
 };
 const getRepositories = async () => {
   const response = await fetch('https://api.github.com/orgs/Kitsune-Studios/repos',
