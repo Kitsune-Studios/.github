@@ -28,6 +28,10 @@ Each template includes:
 - GitHub Actions workflows (for CI/CD)
 - Automation scripts (if applicable)
 
+## Code of Conduct
+
+We are committed to fostering an open and welcoming environment. Please read our [Code of Conduct](../CODE_OF_CONDUCT.md) to understand what behaviors will and will not be tolerated.
+
 ## Contributing
 
 To contribute a new template or improve existing ones:
@@ -42,4 +46,5 @@ To contribute a new template or improve existing ones:
 Most of our projets are Licensed under the [`MIT License`](../LICENSE).
 
 ---
-*Building the future of small business infrastructure, one deployment at a time* 🚀
+
+_Building the future of small business infrastructure, one deployment at a time_ 🚀
